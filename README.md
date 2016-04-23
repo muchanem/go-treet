@@ -2,25 +2,9 @@
 
 Utility functions for printing and displaying data organized as trees.
 
-```go
-package main
-
-import (
-  "github.com/fadb/go-treet"
-)
-
-func main() {
-  treeish := map[string]interface{}{
-
-  }
-  treet.Print(treeish)
-}
-
-```
-
+See examples.
 
 LICENSE
-
 -------
 The MIT License (MIT)
 
